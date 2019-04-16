@@ -1,5 +1,5 @@
 const http = require('http');
-const app = require('./app');
+const app = require('./index');
 
 /**
  * Get port from environment and store in Express.
